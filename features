@@ -1,4 +1,5 @@
 features:
+* graphics
+* urgent fix
 * login
 * logout
-* urgent fix
